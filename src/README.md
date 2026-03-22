@@ -57,7 +57,9 @@ capture.set(cv2.CAP_PROP_FRAME_HEIGHT, 270)
 
 ---
 
-### 5️ 지역 판별 로직(데이터처리)
+## 🚨 안전설계
+
+### 5️ 비상정지 회로
 
 ```python
   f qr_num[0:2] == "00":  # 광역자치단체 
@@ -69,7 +71,7 @@ capture.set(cv2.CAP_PROP_FRAME_HEIGHT, 270)
 ```
 ---
 
-### 6️⃣ 서보모터 동작(분류 실행)
+### 6️⃣ 후진완료 릴레이
 
 ```python
   if do == "경기도":
@@ -83,7 +85,7 @@ capture.set(cv2.CAP_PROP_FRAME_HEIGHT, 270)
                     set_servo_angle(servo2, 0)   # 5초 대기후 원점복귀
 ```
 
-### 7️⃣ 중복 방지 & 예외 처리
+### 7️⃣ InerLock 회로
 
 ```python
    reset_QR += 1   # 반복문이 한번 돌때마다 카운터 1증가
