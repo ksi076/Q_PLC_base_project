@@ -9,36 +9,35 @@
 
 - **수행 기간:** 2026.02.04 ~ 2026.02.09
 - **사용 기술:**
-  - Python
-  - YOLOv8
-  - OpenCV
-  - Raspberry Pi5
-  - SQLite
-  - Arduino IDE
-  - XPT2046 Touch Controller
-  - INTEL RealSense Depth Camera D435i
-  - PILOMAX USB 웹캠
+  - GX Works 2 ver 1.631H
+  - GS Designer 3 ver 1.2565
+  - CDJ2B16-50Z-B 모터
+  - CXSL10-50 모터
+  - CR18-8DN 센서
+  - PRL18-8DN 센서 
+  - CDQ2B12-15DMZ 모터 
+  - CDJ2KB16-100Z-B 모터
+  - QD77MS2 모듈
+  - MR-J4-10B 서보드라이버
+    
 - **주요 기능:**
-  ![구성도](img/구성도1.png)
-  - 무단횡단 감지
-  - 불법 주정차 감지
-  - 불법 유턴 감지
-  - 낙상 감지
-  - 긴급 차량 처리
-  - 이벤트 이미지 저장
-  - 로그 데이터 기록 및 일별 통계 관리
+  - 금속·비금속 소재 판별
+  - 입고·출고 자동화
+  - 선입선출 구조로 입출고
+
+ ---
  
+## 💻 개발환경
+
   
-
-
 ---
 
 ## 🛠 기술 스택
 
 | 기술 | 설명 |
 |------|------|
-| Python | 전체 시스템 로직 및 영상 처리 구현 |
-| YOLOv8 | 객체 탐지 모델 기반 보행자/차량 인식 |
+| GX works2 | 전체 시스템 코드 및 로직 구현 |
+| GS Designer3 | HDMI 디스플레이 화면 구현 |
 | OpenCV | ROI 표시, 대시보드 구성, 이미지 저장, 색 기반 신호 판별 |
 | Raspberry Pi5 | 임베디드 환경에서 실시간 시스템 구동 |
 | INTEL RealSense Depth Camera D435i | 사람 객체와 횡단보도 중앙까지의 실제 거리 측정 및 이벤트 판별 |
