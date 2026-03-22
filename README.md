@@ -177,7 +177,7 @@
 
 ### 사례4
 
-<img src="img/트러블슈팅6.png" height="400">
+<img src="img/트러블슈팅6.png"  style="width:600px; height:400px">
 <img src="img/트러블슈팅7.png" height="200">
 
 - **문제:** 카메라 2대를 사용하기 때문에 카메라 속도 유지를 위해 YOLO5n을 사용하자 인식하지 못함  
