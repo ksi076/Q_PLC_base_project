@@ -4,7 +4,7 @@
 
 ### 1️⃣ 원점확립&후진
 
-![선입](img/algorithm/선입1.png)
+![선입](../img/algorithm/선입1.png)
 ---
 
 ### 2️⃣ 선입
