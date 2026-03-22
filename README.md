@@ -87,9 +87,9 @@
 ---
 
 
-## 📂 소스 코드
+## 📂 핵심 알고리즘
 
-### [소스코드 바로가기(상세코드설명포함)](https://github.com/ksi076/smart_road_management_system/tree/main/src)
+### [핵심 알고리즘 바로가기](https://github.com/ksi076/smart_road_management_system/tree/main/src)
 
 ---
 
