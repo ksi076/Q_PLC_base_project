@@ -4,7 +4,7 @@
 
 ### 1️⃣ 원점확립&후진
 
-<img src="img/algorithm/inone.png" width="600">
+<img src="img/algorithm/선입1.png" width="600">
 ---
 
 ### 2️⃣ 선입
