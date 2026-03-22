@@ -4,7 +4,7 @@
 
 ### 1️⃣ 원점확립&후진
 
-<img src="img/트러블슈팅1.png"  style="width:600px; height:400px">
+<img src="img/algorithm/선입1.png"  style="width:600px; height:400px">
 ---
 
 ### 2️⃣ 선입
