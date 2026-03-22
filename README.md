@@ -178,7 +178,7 @@
 ### 사례4
 
 <img src="img/트러블슈팅6.png" height="400">
-<img src="img/트러블슈팅7.png" height="400">
+<img src="img/트러블슈팅7.png" height="200">
 
 - **문제:** 카메라 2대를 사용하기 때문에 카메라 속도 유지를 위해 YOLO5n을 사용하자 인식하지 못함  
 - **해결:** YOLO8s로 학습하여 인식못하는 문제를 해결하고 학습완료된 best.pt 파일을 best.onnx 파일로 교체하여 속도문제를 해결
