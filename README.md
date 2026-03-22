@@ -154,7 +154,7 @@
 
 ### 사례1
 
-<img src="img/트러블슈팅1.png" height="400">
+<img src="img/트러블슈팅1.png"  style="width:600px; height:400px">
 
 - **문제:** 빨간 사람 학습 후 신호등의 빨간 신호를 person클래스로 오탐  
 - **해결:** 특정 ROI 영역 안의 person 감지를 continue하여 오탐 방지  
