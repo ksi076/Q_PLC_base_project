@@ -28,10 +28,8 @@
  ---
  
 ## 💻 개발환경
-<div>
-  <img src="img/개발환경1.PNG" style="width:450px; height:400px">
-  <img src="img/개발환경2.PNG" style="width:450px; height:400px">
-</div>
+![개발1](img/개발환경1.PNG)
+![개발2](img/개발환경2.PNG)
 
   
 ---
