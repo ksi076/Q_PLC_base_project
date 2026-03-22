@@ -95,60 +95,9 @@
 
 ## 🎥 시연 영상
 
-### [인도 무단횡단 감지 시연](https://drive.google.com/file/d/1JJZ4wy2REE9QvrCth4uMI0Oh-UzQre7v/view?usp=sharing)
-[![인도무단횡단](gif/display/횡단보도무단횡단.gif)]
-
-### [차도 무단횡단 감지 시연](https://drive.google.com/file/d/10VPleeBBzlbaidgrZ4XxjRO3DYnDbJa4/view?usp=sharing)
-![차도무단횡단](gif/display/차도무단횡단.gif)
-
-### [불법 주정차 감지 시연](https://drive.google.com/file/d/1wICn6sA5SGs-cMUMmPEFmAYt1xEubBA2/view?usp=sharing)
-![불법주정차](gif/display/불법주정차2.gif)
-
-### [불법 유턴 감지 시연](https://drive.google.com/file/d/1-yff9gF1twIYAe5XEUdBGuQiPEu5qhGJ/view?usp=sharing)
-![불법유턴](gif/display/불법유턴1.gif)
-
-### [차량 횡단보도 침범](https://drive.google.com/file/d/1e-4tieU3bb9hKjmdHmfrGHj2JFM-pdN3/view?usp=sharing)
-![차량침범](gif/display/차량횡단보도침범.gif)
-
-### [긴급상황 사고](https://drive.google.com/file/d/11_sgPJO63pYdR7drzoCO-xOwAlElfMGV/view?usp=sharing)
-![긴급상황사고](gif/display/긴급상황사고최종.gif)
-
-### [긴급 차 비켜주기](https://drive.google.com/file/d/1XEe5XvLOEKhPmtaGWWo1Pxdk5H6INKlp/view?usp=sharing)
-![긴급차비킴](gif/display/긴급차비켜주기.gif)
+### [전체 시연 영상](https://drive.google.com/file/d/1JJZ4wy2REE9QvrCth4uMI0Oh-UzQre7v/view?usp=sharing)
 
 ---
-
-##  💻  디스플레이 및 야간 LED 사진
-<div>
-  <img src="img/라즈베리파일 디스플레이.jpg" height="400">
-  <img src="img/무단횡단야간.png" style="width:250px; height:400px">
-  <img src="img/차량침범야간.png" style="width:250px; height:400px">
-</div>
-
-### 1. 디스플레이 (XPT2046 Touch Controller)
-- 라즈베리파이5와 연결하여 UI화면 제어
-
-### 2. 야간 무단횡단 감지
-- 보행자 빨간불 또는 신호상관 없이 횡단보도 외 도로 침범 시 네오픽셀 빨간LED 점등
-
-### 3. 야간 차량침범 감지
-- 보행자 초록불 신호에 차량이 횡단보도 침범 시 네오픽셀 파란LED 점등
-
----
-
-## 💾  데이터베이스 사진
-
-
-### 1. 데이터베이스 테이블
-<img src="img/db/테이블확인.png" height="200">
-<img src="img/db/테이블목록.png" height="200">
-
-### 2. 데이터베이스 이미지
-<img src="img/db/이미지확인.png" height="200">
-<img src="img/db/이미지목록.png" height="200">
-
----
-
 
 ## ⚠️ 문제 해결 과정 (Trouble Shooting)
 
