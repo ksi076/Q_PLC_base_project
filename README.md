@@ -88,11 +88,9 @@
 
 ## 🖥️ HDMI 디스플레이 사진
 
-### 입고 플로우차트
-![입고플로우차트](img/입고플로우차트.png)
-
-### 출고 플로우차트
-![출고플로우차트](img/출고플로우차트.png)
+![디스플레이1](img/디스플레이1.PNG)
+![디스플레이2](img/디스플레이2.PNG)
+![디스플레이3](img/디스플레이3.PNG)
 
 
 ---
@@ -109,6 +107,15 @@
 ### [전체 시연 영상 바로가기](https://drive.google.com/file/d/1JJZ4wy2REE9QvrCth4uMI0Oh-UzQre7v/view?usp=sharing)
 
 ---
+
+## 📘 사용설명서
+
+![메뉴얼](img/사용설명서.PNG)
+
+
+
+---
+
 
 ## ⚠️ 문제 해결 과정 (Trouble Shooting)
 
