@@ -86,6 +86,17 @@
 
 ---
 
+## 🖥️ HDMI 디스플레이 사진
+
+### 입고 플로우차트
+![입고플로우차트](img/입고플로우차트.png)
+
+### 출고 플로우차트
+![출고플로우차트](img/출고플로우차트.png)
+
+
+---
+
 
 ## 📂 핵심 알고리즘
 
@@ -95,7 +106,7 @@
 
 ## 🎥 시연 영상
 
-### [전체 시연 영상](https://drive.google.com/file/d/1JJZ4wy2REE9QvrCth4uMI0Oh-UzQre7v/view?usp=sharing)
+### [전체 시연 영상 바로가기](https://drive.google.com/file/d/1JJZ4wy2REE9QvrCth4uMI0Oh-UzQre7v/view?usp=sharing)
 
 ---
 
