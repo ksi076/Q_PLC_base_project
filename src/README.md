@@ -55,7 +55,7 @@
 
 ### 4️⃣ 상태점검
 
-<img src="../img/algorithm/상태1.png"  style="width:600px; height:400px">
+<img src="../img/algorithm/상태1.png" width="1000">
 <img src="../img/algorithm/상태2.png"  style="width:600px; height:300px">
 <img src="../img/algorithm/상태3.png"  style="width:600px; height:400px">
 
