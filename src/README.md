@@ -73,7 +73,7 @@ capture.set(cv2.CAP_PROP_FRAME_HEIGHT, 270)
 ```
 ---
 
-## 🧾 전체코드
+## 🧾 전체코드보러가기(../docs/report.pdf)
 ---
 
 
