@@ -20,7 +20,7 @@
 
 ### 2️⃣ 선입
 
-<img src="../img/algorithm/원점.png"  style="width:600px; height:200px">
+<img src="../img/algorithm/원점.png"  style="width:600px; height:400px">
 <img src="../img/algorithm/원점.png"  style="width:600px; height:400px">
 ---
 
