@@ -27,7 +27,7 @@
 
 -> 층 수 증가
 
--> 설정된 층 적재
+-> 설정된 층 입고
 
 -> 동작종료 & 층수 = 3
 
@@ -37,19 +37,37 @@
 
 ### 3️⃣ 선출
 
-```python
-capture = cv2.VideoCapture(0)
-capture.set(cv2.CAP_PROP_FRAME_WIDTH, 360)
-capture.set(cv2.CAP_PROP_FRAME_HEIGHT, 270)
-```
+<img src="../img/algorithm/선출1.png"  style="width:600px; height:200px">
+<img src="../img/algorithm/선출2.png"  style="width:600px; height:400px">
+<img src="../img/algorithm/선출3.png"  style="width:600px; height:200px">
+
+○ 버튼 누름
+
+-> 층 수, 선출 수량 증가
+
+-> 설정된 층 출고
+
+-> 층수 = 3
+
+-> 층 수 초기화
+
 ---
 
 ### 4️⃣ 상태점검
 
-```python
- qr = cv2.QRCodeDetector()  # openCV의 QR코드 검출기 객체 생성 (QR코드를 찾아주고, 안의 문자열도 읽어줌)
-        data, box, straight_qrcode = qr.detectAndDecode(GRAY_frame) # data: QR안의 문자열, box: QR의 위치좌표, straight_qrcode : 보정된 QR이미지
-```
+<img src="../img/algorithm/상태1.png"  style="width:600px; height:300px">
+<img src="../img/algorithm/상태2.png"  style="width:600px; height:300px">
+<img src="../img/algorithm/상태3.png"  style="width:600px; height:200px">
+
+○ 버튼 누름
+
+-> 적재 중 위치 학습
+
+-> 동작 완료
+
+-> 원하는 층 버튼 누름
+
+-> 층 수 초기화
 
 ---
 
