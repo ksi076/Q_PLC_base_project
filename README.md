@@ -104,7 +104,7 @@
 
 ## 🎥 시연 영상
 
-### [전체 시연 영상 바로가기](https://drive.google.com/file/d/1JJZ4wy2REE9QvrCth4uMI0Oh-UzQre7v/view?usp=sharing)
+### [전체 시연 영상 바로가기](https://drive.google.com/file/d/1gPXS5RRIFL05CLQruQkVnnIAgYmvM91E/view?usp=sharing)
 
 ---
 
