@@ -98,7 +98,7 @@
 
 ## 📂 핵심 알고리즘
 
-### [핵심 알고리즘 바로가기](https://github.com/ksi076/Q_PLC_base_project/tree/main/src)
+### [핵심 알고리즘 및 전체코드 바로가기](https://github.com/ksi076/Q_PLC_base_project/tree/main/src)
 
 ---
 
