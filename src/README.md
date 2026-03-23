@@ -20,13 +20,8 @@
 
 ### 2️⃣ 선입
 
-```python
-def set_servo_angle(servo, angle):
-    duty = 2 + (angle / 18)  # 각도를 PWM 신호로 변환 (서보모터는 각도를 직접받는게 아닌 PWM 듀비티를 받음)
-    servo.ChangeDutyCycle(duty)                     #0도 -> 2, 90도 -> 7, 180도 -> 12
-    time.sleep(0.5)  # 서보모터가 움직일 시간을 줌
-    servo.ChangeDutyCycle(0)  # 서보모터를 멈춤
-```
+<img src="../img/algorithm/원점.png"  style="width:600px; height:200px">
+<img src="../img/algorithm/원점.png"  style="width:600px; height:400px">
 ---
 
 ### 3️⃣ 선출
