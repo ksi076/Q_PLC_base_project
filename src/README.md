@@ -37,9 +37,9 @@
 
 ### 3️⃣ 선출
 
-<img src="../img/algorithm/선출1.png"  style="width:400px; height:200px">
+<img src="../img/algorithm/선출1.png"  style="width:600px; height:300px">
 <img src="../img/algorithm/선출2.png"  style="width:600px; height:400px">
-<img src="../img/algorithm/선출3.png"  style="width:400px; height:200px">
+<img src="../img/algorithm/선출3.png"  style="width:600px; height:300px">
 
 ○ 버튼 누름
 
