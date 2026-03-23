@@ -37,9 +37,11 @@
 
 ### 3️⃣ 선출
 
-<img src="../img/algorithm/선출1.png"  style="width:600px; height:300px">
-<img src="../img/algorithm/선출2.png"  style="width:600px; height:400px">
-<img src="../img/algorithm/선출3.png"  style="width:600px; height:300px">
+<p align="center">
+  <img src="../img/algorithm/선출1.png" width="1200">
+  <img src="../img/algorithm/선출2.png" width="1200">
+  <img src="../img/algorithm/선출3.png" width="1200">
+</p>
 
 ○ 버튼 누름
 
@@ -60,8 +62,6 @@
   <img src="../img/algorithm/상태2.png" width="1200">
   <img src="../img/algorithm/상태3.png" width="1200">
 </p>
-<img src="../img/algorithm/상태2.png"  style="width:600px; height:300px">
-<img src="../img/algorithm/상태3.png"  style="width:600px; height:400px">
 
 ○ 버튼 누름
 
