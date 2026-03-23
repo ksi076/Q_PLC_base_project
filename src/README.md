@@ -4,7 +4,7 @@
 
 ### 1️⃣ 원점확립&후진
 
-![원점](../img/algorithm/원점.png)
+<img src="../img/algorithm/원점.png"  style="width:600px; height:400px">
 
 ○ 시스템 시작 or 동작 종료 
 
