@@ -24,9 +24,13 @@
 <img src="../img/algorithm/선입2.png"  style="width:600px; height:400px">
 
 ○ 소재인식
+
 -> 층 수 증가
+
 -> 설정된 층 적재
+
 -> 동작종료 & 층수 = 3
+
 -> 층 수 초기화
 
 ---
