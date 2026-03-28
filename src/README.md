@@ -81,7 +81,7 @@
 
 ## 🚨 안전설계
 
-### 5️ 비상정지 회로
+### 5️⃣ 비상정지 회로
 
 <p align="center">
   <img src="../img/algorithm/비상정지.png" width="1200">
